@@ -10,6 +10,9 @@ http://starshare.live:8080/live/starbox868/987starbox/255259.ts
 #EXTINF:-1 tvg-logo="https://image.pixahunt.com/graphics/thumb/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp" group-title="Sports",T Sports
 http://xtv.ooo:8080/live/Sajid78/Sajid2244/167590.ts
 
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.YwrR-Md0B6MdVt5h4PgZbgAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Gazi tv
+http://starshare.live:8080/live/starbox868/987starbox/767.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M83LJMy/IMG-20240427-WA0001.jpg" group-title="Sports", IPL  
 http://xtv.ooo:8080/live/Sajid78/Sajid2244/220059.ts
 
@@ -33,7 +36,6 @@ http://starshare.live:8080/live/starbox868/987starbox/12.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Astro_Cricket_Channel_ID.jpg/revision/latest?cb=20190130044244" group-title="Sports", Astro
 http://starshare.live:8080/live/starbox868/987starbox/2494.ts
-
 
 
 
