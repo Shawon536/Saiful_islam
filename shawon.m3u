@@ -34,7 +34,14 @@ http://starshare.live:8080/live/starbox868/987starbox/12.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Astro_Cricket_Channel_ID.jpg/revision/latest?cb=20190130044244" group-title="Sports", Astro
 http://starshare.live:8080/live/starbox868/987starbox/2494.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M83LJMy/IMG-20240427-WA0001.jpg" group-title="Sports" ,Willow Cricket HD
+http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M83LJMy/IMG-20240427-WA0001.jpg" group-title="Sports",Astro 🇲🇾 Cricket HD
+http://195.26.87.217/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M83LJMy/IMG-20240427-WA0001.jpg" group-title="Sports",Hoster Live 1
+https://sportsleading.online/live/stream_e1.m3u8
 
 
 
