@@ -7,6 +7,9 @@ http://b1g.uk:80/live/Francisco/Francisco/672953.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XsGJcsh/landscape-original-poster-079214001714413603.png" group-title="Sports",Ban VS Zim
 http://b1g.uk:80/live/Francisco/Francisco/697061.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XsGJcsh/landscape-original-poster-079214001714413603.png" group-title="Sports",Ban VS Zim
+https://bdixtv247.techpriyo.com/api/bpl/ts.php?url=https://mprod-cdn.toffeelive.com/live/match-3/master_850/1715084234.ts
+
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.1da39bb749dd86542ef1b48d8079165b?rik=Mf8btXLUtKA50Q&pid=ImgRaw&r=0" group-title="Sports", Gazi tv
 http://103.151.60.214:7444/1102/tracks-v1a1/2024/05/07/06/56/31-06000.ts 
 
