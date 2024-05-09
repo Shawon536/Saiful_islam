@@ -4,16 +4,6 @@ https://i.ibb.co/581CnRM/20240428-050626.jpg
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XsGJcsh/landscape-original-poster-079214001714413603.png" group-title="Sports",Ban VS Zim
 http://opplex.tv:8080/live/7080000/0341708/371470.ts
 
-#EXTINF:-1 tvg-chno="4" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1715062748-Live-app.jpg", LIVE | Bangladesh vs Zimbabwe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.193 Mobile Safari/537.36
-#EXTHTTP:{"Cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1715289069:KeyName=tsports-ed25519-01:Signature=DS0ttiGfwnTrBCLSLWAF3UhTZP6IxYFwbzGKdFsrClZsPXdKxO6TFQc5ybDC4Uz7wzRIZ-e9GOsPUTJZPJlHAg"}
-https://live-cdn.tsports.com/live-01/index.m3u8
-
-#EXTINF:-1 tvg-chno="3" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/26939/logo/240x240/mobile_logo_570467001711149160.png", IPL VIP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.193 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1715286445:KeyName=prod_live_events:Signature=8Q1u2RUJuSPicf3Dmf9iyco687F4lk7ddIYstkuMXSUTYqiGew-EGLT7ZP68aqjCcMUb_67oMcxspSg-2h-0AQ"}
-https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XsGJcsh/landscape-original-poster-079214001714413603.png" group-title="Sports",Ban VS Zim
 http://b1g.uk:80/live/Francisco/Francisco/697061.ts
 
@@ -36,19 +26,19 @@ http://xtv.ooo:8080/live/Sajid78/Sajid2244/220059.ts
 http://xtv.ooo:8080/live/Sajid78/Sajid2244/220060.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M83LJMy/IMG-20240427-WA0001.jpg" group-title="Sports", IPL No adds
-http://starshare.live:8080/live/starbox868/987starbox/303599.ts
+http://starshare.live:8080/live/starbox868/987starbox/304279.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M83LJMy/IMG-20240427-WA0001.jpg" group-title="Sports", IPL Willow
-http://starshare.live:8080/live/starbox868/987starbox/303596.ts
+http://starshare.live:8080/live/starbox868/987starbox/303597.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M83LJMy/IMG-20240427-WA0001.jpg" group-title="Sports", IPL Fox
 http://starshare.live:8080/live/starbox868/987starbox/303598.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M83LJMy/IMG-20240427-WA0001.jpg" group-title="Sports", IPL Bangla
-http://starshare.live:8080/live/starbox868/987starbox/304296.ts
+http://starshare.live:8080/live/starbox868/987starbox/304286.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M83LJMy/IMG-20240427-WA0001.jpg" group-title="Sports", IPL Sky 
-http://starshare.live:8080/live/starbox868/987starbox/12.ts
+http://starshare.live:8080/live/starbox868/987starbox/303595.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Astro_Cricket_Channel_ID.jpg/revision/latest?cb=20190130044244" group-title="Sports", Astro
 http://starshare.live:8080/live/starbox868/987starbox/2494.ts
