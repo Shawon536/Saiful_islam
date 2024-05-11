@@ -11,7 +11,7 @@ http://starshare.live:8080/live/starbox868/987starbox/186630.ts
 http://opplex.tv:8080/live/223322/223322/346373.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.1da39bb749dd86542ef1b48d8079165b?rik=Mf8btXLUtKA50Q&pid=ImgRaw&r=0" group-title="Sports", Gazi tv
-http://103.151.60.214:7444/1102/tracks-v1a1/2024/05/07/06/56/31-06000.ts 
+http://opplex.tv:8080/live/223322/223322/346373.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.pixahunt.com/graphics/thumb/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp" group-title="Sports",T Sports
 http://103.151.60.214:7444/1101/video.m3u8
