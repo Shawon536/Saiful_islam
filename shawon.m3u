@@ -1,23 +1,14 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/581CnRM/20240428-050626.jpg" group-title="Shawon iptv", Shawon iptv
 https://i.ibb.co/581CnRM/20240428-050626.jpg
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XsGJcsh/landscape-original-poster-079214001714413603.png" group-title="Sports",Ban VS Zim
-http://b1g.uk:80/live/778926/778926/260992.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XsGJcsh/landscape-original-poster-079214001714413603.png" group-title="Sports",Ban VS Zim
-http://starshare.live:8080/live/starbox868/987starbox/186630.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XsGJcsh/landscape-original-poster-079214001714413603.png" group-title="Sports",Ban VS Zim ultra
-http://opplex.tv:8080/live/223322/223322/346373.m3u8
-
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.1da39bb749dd86542ef1b48d8079165b?rik=Mf8btXLUtKA50Q&pid=ImgRaw&r=0" group-title="Sports", Gazi tv
-http://opplex.tv:8080/live/223322/223322/346373.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M83LJMy/IMG-20240427-WA0001.jpg" group-title="Sports", IPL  
+https://jancdn-b.bunycdn.com/live/indexa22.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.pixahunt.com/graphics/thumb/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp" group-title="Sports",T Sports
 http://103.151.60.214:7444/1101/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.YwrR-Md0B6MdVt5h4PgZbgAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Gazi tv
-http://starshare.live:8080/live/starbox868/987starbox/767.ts
+http://103.151.60.214:7444/1102/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M83LJMy/IMG-20240427-WA0001.jpg" group-title="Sports", IPL  
 http://xtv.ooo:8080/live/Sajid78/Sajid2244/220059.ts
@@ -42,6 +33,35 @@ http://starshare.live:8080/live/starbox868/987starbox/303595.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Astro_Cricket_Channel_ID.jpg/revision/latest?cb=20190130044244" group-title="Sports", Astro
 http://starshare.live:8080/live/starbox868/987starbox/2494.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d0e75202d855acfb5445f15d69ed5e2e?rik=LaYtmJ3r1yZ3Vw&pid=ImgRaw&r=0" group-title="Bangla",DBC News
+http://mixbix.xyz:8080/live/24eJqBTvL6tV/xzfB95cCYVxX/239042.ts
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ig3Ou5bB0kg7LZLDGo0lQwHaHa?rs=1&pid=ImgDetMain" group-title="Bangla",Ekattor Tv
+http://xtv.ooo:8080/live/shahz18/18usman/245915.ts
+
+#EXTINF:-1 tvg-logo="https://www.newspapersstore.com/wp-content/uploads/2018/04/jamuna-tv-channel.jpg" group-title="Bangla",Jamuna TV
+http://starshare.live:8080/live/starbox868/987starbox/421.ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" group-title="Bangla",ATN news
+http://starshare.live:8080/live/starbox868/987starbox/427.ts
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d608c28b4ab56e86414f02ef8b04e6f6?rik=%2bgzKCZPqjJcGfg&pid=ImgRaw&r=0" group-title="Bangla",Ekushe TV
+http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-F2OnFmGiaec/VkF-kMn37wI/AAAAAAAACHU/GNdh7SToWjQ/s1600/bangla-vision.jpg" group-title="Bangla",bangla vision
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.p6rX8UssIJTVnPtChe_ihQAAAA?rs=1&pid=ImgDetMain" group-title="Bangla",Channel 24
+http://cdn01.palki.tv/live/Channel24-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jWLRW6UPr4YyLR54LRFPqWNuEjlsUOJ1KLdSnDTsVhsab3MueyFM8ExrxmuNyon3GgQ=w300" group-title="Bangla",Jago news 24
+https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Xece0gzkw9PaXsmJLUJcewAAAA?rs=1&pid=ImgDetMain" group-title="Bangla",ekhon tv
+https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
 
 
