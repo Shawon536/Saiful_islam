@@ -5,7 +5,18 @@ https://i.ibb.co/581CnRM/20240428-050626.jpg
 https://jancdn-b.bunycdn.com/live/indexa22.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.pixahunt.com/graphics/thumb/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp" group-title="Sports",T Sports
-http://103.151.60.214:7444/1101/video.m3u8
+  {
+    "name": "T Sports Live",
+    "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
+    "logo": "https://image.tsports.com/images/contents/thumbnail/691/mobile_logo_LIVE(1)_64e4dd8e16430.jpg",
+    "origin": "https://live-cdn.tsports.com",
+    "referrer": "https://live-cdn.tsports.com",
+    "userAgent": "Tsports (Linux; Telegram:https://t.me/bdixiptvm3u8) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1707167345:KeyName=tsports-ed25519-01:Signature=uXYYbceTmv7h6fSEIS1hyf9XkIy1tqd7T4_fZsmRvIhhT0ulF44ZmvlULqvoXLnOcHMnS-3-KgNqVUezKkSZAA",
+    "drmScheme": "",
+    "drmLicense": ""
+  }
+
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.YwrR-Md0B6MdVt5h4PgZbgAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Gazi tv
 http://103.151.60.214:7444/1102/video.m3u8
