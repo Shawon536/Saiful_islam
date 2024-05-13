@@ -63,6 +63,47 @@ https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Xece0gzkw9PaXsmJLUJcewAAAA?rs=1&pid=ImgDetMain" group-title="Bangla",ekhon tv
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.groupsrk.com/wp-content/uploads/2020/07/16..jpg" group-title="Bangla", independent TV
+http://195.26.87.217/live.ts?channelId=99&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.MAC5tNN4UeWbUxN8B0kKuQHaE4?rs=1&pid=ImgDetMain" group-title="Bangla", Somoy TV
+http://195.26.87.217/live.ts?channelId=115&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", News 24
+http://195.26.87.217/live.ts?channelId=107&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/c27b9d9.png" group-title="Bangla", Movies Bangla
+http://195.26.87.217/live.ts?channelId=104&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ChoA-LuWg1JL6x8ucEfNcwHaEN?rs=1&pid=ImgDetMain" group-title="Bangla", Ntv 
+http://195.26.87.217/live.ts?channelId=109&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.jCisetCjRjGuIht9jGQDPgHaDL?rs=1&pid=ImgDetMain" group-title="Bangla", Channel I
+http://195.26.87.217/live.ts?channelId=89&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.jkvbrdDheEytS_kuJv66JQHaGK?rs=1&pid=ImgDetMain" group-title="Bangla",channel 9
+http://195.26.87.217/live.ts?channelId=88&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.ppYG3SbtHsK6bh4iDAuD6gAAAA?rs=1&pid=ImgDetMain" group-title="Bangla", ananda tv
+http://195.26.87.217/live.ts?channelId=90255&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="Bangla", Bijoy Tv
+http://195.26.87.217/live.ts?channelId=85&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.0rYWJCmi_kiqOK7miKd4oQAAAA?w=200&h=131&rs=1&pid=ImgDetMain" group-title="Bangla", Desh TV
+http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.BT4l15sh95vOAfZRRFcyXwAAAA?rs=1&pid=ImgDetMain" group-title="Bangla", My Tv
+http://195.26.87.217/live.ts?channelId=106&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Jrij0jkUGYSHLPBe5E8oswHaF8?rs=1&pid=ImgDetMain" group-title="Bangla", Mohona tv
+http://195.26.87.217/live.ts?channelId=103&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.A0IAOPltPUIk_tDuPBfsWQHaHa?rs=1&pid=ImgDetMain" group-title="Bangla", Gaan Bangla
+http://195.26.87.217/live.ts?channelId=97&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+
+
 
 
 
