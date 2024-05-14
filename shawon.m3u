@@ -5,10 +5,10 @@ https://i.ibb.co/581CnRM/20240428-050626.jpg
 https://jancdn-b.bunycdn.com/live/indexa22.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.pixahunt.com/graphics/thumb/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp" group-title="Sports",T Sports
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=21elNFu9Nbevi-BpzlXsxw&expires=1715782525&user=ff39d05fef0749028389f28943b73363
+http://starshare.live:8080/live/starbox868/987starbox/130714.ts
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.YwrR-Md0B6MdVt5h4PgZbgAAAA?rs=1&pid=ImgDetMain" group-title="Sports", Gazi tv
-http://103.151.60.214:7444/1102/video.m3u8
+http://starshare.live:8080/live/starbox868/987starbox/767.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M83LJMy/IMG-20240427-WA0001.jpg" group-title="Sports", IPL  
 http://xtv.ooo:8080/live/Sajid78/Sajid2244/220059.ts
