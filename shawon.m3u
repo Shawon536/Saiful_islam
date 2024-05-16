@@ -42,6 +42,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=278&uid=8164&deviceMac=00:1A:79:17:D4
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Cricket ", A sportrs
 http://tv.cloudcdn.me:80/live.ts?channelId=12217&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.7FXcmou3UZQOqs9eLAqx3QAAAA?rs=1&pid=ImgDetMain" group-title="Cricket",Jio Sports
+http://tv.cloudcdn.me:80/live.ts?channelId=294&uid=8164&deviceMac=00:1A:79:17:D4:A1
+
 
 
 
