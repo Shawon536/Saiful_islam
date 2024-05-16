@@ -115,6 +115,8 @@ http://195.26.87.217/live.ts?channelId=103&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://195.26.87.217/live.ts?channelId=97&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 
+#EXTINF:-1 tvg-logo="" group-title="kids", Duronto
+http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=8164&deviceMac=00:1A:79:17:D4:A1 
 
 
 
