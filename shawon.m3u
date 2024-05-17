@@ -76,7 +76,7 @@ https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.groupsrk.com/wp-content/uploads/2020/07/16..jpg" group-title="Bangla", independent TV
-http://195.26.87.217/live.ts?channelId=99&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://cdn01.palki.tv/live/Independent-M/tracks-v1a1/2024/05/17/04/33/43-06000.ts
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.MAC5tNN4UeWbUxN8B0kKuQHaE4?rs=1&pid=ImgDetMain" group-title="Bangla", Somoy TV
 http://195.26.87.217/live.ts?channelId=115&uid=7435&deviceMac=00:1A:79:51:4B:3A
