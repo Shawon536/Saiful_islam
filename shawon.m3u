@@ -55,7 +55,7 @@ http://mixbix.xyz:8080/live/24eJqBTvL6tV/xzfB95cCYVxX/239042.ts
 http://xtv.ooo:8080/live/shahz18/18usman/245915.ts
 
 #EXTINF:-1 tvg-logo="https://www.newspapersstore.com/wp-content/uploads/2018/04/jamuna-tv-channel.jpg" group-title="Bangla",Jamuna TV
-http://starshare.live:8080/live/starbox868/987starbox/421.ts
+http://rajtv.online:80/play/live.php?mac=00:1a:79:51:cc:4d&stream=165545&extension=ts&play_token=ne4Nv9x8HQ
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png" group-title="Bangla",ATN news
 http://starshare.live:8080/live/starbox868/987starbox/427.ts
@@ -67,7 +67,7 @@ http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.p6rX8UssIJTVnPtChe_ihQAAAA?rs=1&pid=ImgDetMain" group-title="Bangla",Channel 24
-http://cdn01.palki.tv/live/Channel24-M/index.m3u8
+http://rajtv.online:80/play/live.php?mac=00:1a:79:51:cc:4d&stream=225735&extension=ts&play_token=ADx9KJ5A2T
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/jWLRW6UPr4YyLR54LRFPqWNuEjlsUOJ1KLdSnDTsVhsab3MueyFM8ExrxmuNyon3GgQ=w300" group-title="Bangla",Jago news 24
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
@@ -79,7 +79,7 @@ https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 http://starshare.live:8080/live/347663/347663/423.ts
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.MAC5tNN4UeWbUxN8B0kKuQHaE4?rs=1&pid=ImgDetMain" group-title="Bangla", Somoy TV
-http://starshare.live:8080/live/347663/347663/422.ts
+http://rajtv.online:80/play/live.php?mac=00:1a:79:51:cc:4d&stream=225774&extension=ts&play_token=9Mr4hlmbAE
 
 #EXTINF:-1 tvg-logo="" group-title="Bangla", News 24
 http://195.26.87.217/live.ts?channelId=107&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -114,19 +114,10 @@ http://mixbix.xyz:8080/live/24eJqBTvL6tV/xzfB95cCYVxX/239057.ts
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.A0IAOPltPUIk_tDuPBfsWQHaHa?rs=1&pid=ImgDetMain" group-title="Bangla", Gaan Bangla
 http://195.26.87.217/live.ts?channelId=97&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.A0IAOPltPUIk_tDuPBfsWQHaHa?rs=1&pid=ImgDetMain" group-title="Bangla",Shangsad Tv
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/64/logo/240x240/mobile_logo_760805001655890979.png" group-title="Bangla",Shangsad Tv
 http://rajtv.online:80/play/live.php?mac=00:1a:79:51:cc:4d&stream=165544&extension=ts&play_token=PhYhG5l9G0
 
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.A0IAOPltPUIk_tDuPBfsWQHaHa?rs=1&pid=ImgDetMain" group-title="Bangla",somoy Tv
-http://rajtv.online:80/play/live.php?mac=00:1a:79:51:cc:4d&stream=225774&extension=ts&play_token=9Mr4hlmbAE
-
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.A0IAOPltPUIk_tDuPBfsWQHaHa?rs=1&pid=ImgDetMain" group-title="Bangla",jomuna tv
-http://rajtv.online:80/play/live.php?mac=00:1a:79:51:cc:4d&stream=165545&extension=ts&play_token=ne4Nv9x8HQ
-
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.A0IAOPltPUIk_tDuPBfsWQHaHa?rs=1&pid=ImgDetMain" group-title="Bangla",channel 24
-http://rajtv.online:80/play/live.php?mac=00:1a:79:51:cc:4d&stream=225735&extension=ts&play_token=ADx9KJ5A2T
-
-#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.A0IAOPltPUIk_tDuPBfsWQHaHa?rs=1&pid=ImgDetMain" group-title="Bangla",zee bangla cenema
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.zmc453xuamCp4xXydCqCLwHaDh?rs=1&pid=ImgDetMain" group-title="Bangla",zee bangla cenema
 http://rajtv.online:80/play/live.php?mac=00:1a:79:51:cc:4d&stream=225781&extension=ts&play_token=JdPFAX578s
 
 
