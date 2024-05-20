@@ -112,7 +112,10 @@ http://mixbix.xyz:8080/live/24eJqBTvL6tV/xzfB95cCYVxX/239058.ts
 http://mixbix.xyz:8080/live/24eJqBTvL6tV/xzfB95cCYVxX/239057.ts
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.A0IAOPltPUIk_tDuPBfsWQHaHa?rs=1&pid=ImgDetMain" group-title="Bangla", Gaan Bangla
-http://195.26.87.217/live.ts?channelId=97&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://rajtv.online:80/play/live.php?mac=00:1a:79:51:cc:4d&stream=225751&extension=ts&play_token=bUZemjAF5U
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.90601153b4a5cc8bd54df425a33d228c?rik=Ar1bm7%2fntGYGbg&riu=http%3a%2f%2flive.bdtype.com%2fupload%2ftv%2fsource%2frtv-music.png&ehk=Mjdo8wuVTttxsOdz%2f%2bDGxE%2bP5xy2En%2f13Vdi0AoQKyM%3d&risl=&pid=ImgRaw&r=0" group-title="Bangla",RTV music
+http://rajtv.online:80/play/live.php?mac=00:1a:79:51:cc:4d&stream=225790&extension=ts&play_token=hR9vpvUeqo
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/64/logo/240x240/mobile_logo_760805001655890979.png" group-title="Bangla",Shangsad Tv
 http://rajtv.online:80/play/live.php?mac=00:1a:79:51:cc:4d&stream=165544&extension=ts&play_token=PhYhG5l9G0
