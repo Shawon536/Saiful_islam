@@ -27,6 +27,12 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sports_highlights/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M83LJMy/IMG-20240427-WA0001.jpg" group-title="Cricket ", IPL  
 https://jancdn-b.bunycdn.com/live/indexa22.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vwRtzcV/photo-2024-05-21-21-09-18.jpg"Cricket ",bangladesh vs usa
+https://fightprofleague.akamaized.net/hls/live/2111367/pfl2024/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vwRtzcV/photo-2024-05-21-21-09-18.jpg"Cricket ",bangladesh vs usa
+https://1rdk.short.gy/Fancode-Worldwide/Ban-VS-Usa/Join-TG-@HimelOP_Official.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.pixahunt.com/graphics/thumb/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp" group-title="Cricket ",T Sports
 http://rajtv.online:80/play/live.php?mac=00:1a:79:51:cc:4d&stream=156016&extension=ts&play_token=MhwlfZJwDb
 
