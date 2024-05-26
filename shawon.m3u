@@ -3,6 +3,21 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/581CnRM/20240428-050626.jpg" group-title="Shawon iptv", Shawon iptv
 https://i.ibb.co/581CnRM/20240428-050626.jpg
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL Final 2024 T Sports
+http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=221571b860f9cbafd0867e2916b7e43e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL Final 2024 Live English
+http://starshare.live:8080/live/Sylvia/Sylvia/304279.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL Final 2024 Live English
+https://mahabubur@bunyhlsipla.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL Final 2024 Live Bangla
+https://1rdk.short.gy/IPL-2024/JioCinema-Bangla-Worldwide/Himel-Op.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL2024",IPL Final 2024 Live Hindi
+https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-chno="1" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png", ICC Men's T20 World Cup VIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.193 Mobile Safari/537.36
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1716775258:KeyName=prod_live_events:Signature=iU75g9TLxB23SysBNr5Ej6xSd9tYB2JJV0V9RsHIcvT46lJ9LA88aX6oWWsIec8LVwxVWARP0ZI_ySynfH8VBQ"}
