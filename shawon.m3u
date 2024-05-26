@@ -3,6 +3,22 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/581CnRM/20240428-050626.jpg" group-title="Shawon iptv", Shawon iptv
 https://i.ibb.co/581CnRM/20240428-050626.jpg
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",
+http://rajtv.online:80/play/live.php?mac=00:1a:79:51:cc:4d&stream=155966&extension=ts&play_token=UXrhRHytWb
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",
+http://flwz3f7w21573570y.wc3.maistro.me:8080/live/play/WlVaWU9HdFBVeko0ZVZvM05qWk5PRmR3WlhCQ2JXeDRUVWxKTmxGaVVYUjNaVlJsZDIxMmJ6RlZORDA9/1114581
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",
+
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",
+
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",
+
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",
 
 
 
@@ -16,7 +32,7 @@ http://starshare.live:8080/live/gopal529/15051529/3802.ts
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.YwrR-Md0B6MdVt5h4PgZbgAAAA?rs=1&pid=ImgDetMain" group-title="Cricket ", Gazi tv
 http://starshare.live:8080/live/starbox868/987starbox/767.ts
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Astro_Cricket_Channel_ID.jpg/revision/latest?cb=20190130044244" group-title="Cricket ", Astro IPL
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Astro_Cricket_Channel_ID.jpg/revision/latest?cb=20190130044244" group-title="Cricket ", Astro 
 http://rajtv.online:80/play/live.php?mac=00:1a:79:51:cc:4d&stream=1104670&extension=ts&play_token=UCeHzYFpIW
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1663271.jpg" group-title="Cricket ",PTV Sports
