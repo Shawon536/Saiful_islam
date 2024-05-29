@@ -17,7 +17,8 @@ http://homeip.biz/IN_FCRCBago/index.m3u8?token=7ac69ebf08e804f2c065f17e9f3f1855
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",Astro
 http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=8982&deviceMac=00:1A:79:A5:D6:5B 
 
-
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",Astro
+http://116229191157.rsc.cdn77.cc/AstroCricketHD/tracks-v1a1/mono.m3u8?token=ab420ab081ef2d4b77c31cf6d0ce7e4a
 
 
 
