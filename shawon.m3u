@@ -9,7 +9,7 @@ https://i.ibb.co/581CnRM/20240428-050626.jpg
 http://tv.cloudcdn.me:80/live.ts?channelId=295&uid=13106&deviceMac=00:1A:79:00:05:A3
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",willow
-http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=13106&deviceMac=00:1A:79:00:05:A3
+http://157.245.110.206:5000/@buddyxiptv?id=willowusa
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",star sports 1 
 http://157.245.110.206:5000/@buddyxiptv?id=star1in
