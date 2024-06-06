@@ -12,7 +12,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=8982&deviceMac=00:1A:79:A5:D6
 http://157.245.110.206:5000/@buddyxiptv?id=willowusa
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",star sports 1 
-https://public.iptv18.tech/share.php?id=9397.ts
+http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHCHlZUsuWTm3x_e4_hsheY8/ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",Astro
 http://xtv.ooo:8080/live/777888242424/444555666/167581.ts
