@@ -6,7 +6,7 @@ https://i.ibb.co/581CnRM/20240428-050626.jpg
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",star sports 2
-http://xtv.ooo:8080/live/777888242424/444555666/167576.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",willow
 http://157.245.110.206:5000/@buddyxiptv?id=willowusa
