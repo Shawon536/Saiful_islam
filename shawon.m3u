@@ -25,11 +25,11 @@ http://xtv.ooo:8080/live/777888242424/444555666/371470.ts
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",Sky sports
 http://xtv.ooo:8080/live/777888242424/444555666/220064.ts
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",toffee
-https://shounwifi.net/ott-player/tofee-bangla.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup", toffee
+https://shounwifi.net/ott-player/tofee-english.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup", S cricket 4k
 https://public.iptv18.tech/share.php?id=158442.ts
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",Nagorik Tv
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup", Nagorik Tv
 http://tv.digitalview.live:8080/play/IhPETWrznZVFDpbFHDLzHHLp-9t7bH_jCEHD1QD5eNM/ts
 
 
