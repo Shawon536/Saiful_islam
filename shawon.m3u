@@ -27,6 +27,8 @@ http://xtv.ooo:8080/live/777888242424/444555666/371470.ts
 http://xtv.ooo:8080/live/777888242424/444555666/220064.ts
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup", toffee
 https://t.ly/Toffee-Match1-BN/Zubayer_Op.m3u8
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup", toffee ck
+http://103.213.38.82:8080/auth/qDaSoTZyELLxQaYjQrz7GkrhkWbdHzA-JQOyQFUct-hR8FLxK2UfSxXH8o4o6x7ixkTHn9YErPj9_PY8m_3POfzZhtnmSv10G0rr0mE4P9E1oZWGTNisMWrk-reUs4X37EvLvbx7wdqpfeDyUzS4SSpFs9uwUNpRjYim998VFF8RTo5aFI15c4Y6k7BAj365NFHCGUK2UfSwl8ymwylmakFP9roni_a-FDDj2XK2e_F7SyHsFhFAvUqICOznjFbJ0qvmBU0VoaRjykZw0tth1k51aATx8H71J322YdU9QRtNPgqBGxc-elLsbwGcwkHJMtNVsS_o3DZIQUCqcagSf3qLrASEHefIcbjS35usgc5Ox5O5gJ5ZI683beQxMPIn-3kkTwDZEBroZAq5uOcFX93HJhjwgtfjJ5dxge7MsRPg0-MyOldWORb2SZ9Pp0ZFEq3lhBs4IVQW1fKU4RWlJ0iClaFKS6FXw5vlLyZuOA5swfNNS8mzFlyxcHP8auW5yfztZSxRdpyllVFgg9l6uAJgvxlRS9Pe_Vk9d624nozBDvr6MDK8JUNKjr5T0ylanoXve3SnZsnTQjKw8GCX33YuxMuI858ue64Tpp_xnu8wNOsFKlXQ64uV2VNYSLVV
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup", Bangla
 http://lifetvbd.xyz:8080/play/sfDLG_2a-o-zPZtPnk8IJb63fW_8gtcAEXnxlUNBP1s/ts
