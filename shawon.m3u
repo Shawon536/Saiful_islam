@@ -43,8 +43,8 @@ https://shounwifi.net/ott-player/tofee-english.m3u8
 #EXTINF:-1 tvg-id="Channel-2 Bangla VIP" tvg-name="Channel-2 Bangla VIP" tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_182385001717400375.png" group-title="T20 World cup",Toffee Bangla Vip 
 https://shounwifi.net/ott-player/tofee-bangla.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",
-
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup", toffee test
+https://hdstreamz.vip/sports/mu1.php?e=.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",
