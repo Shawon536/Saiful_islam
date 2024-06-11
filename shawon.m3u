@@ -85,6 +85,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=12217&uid=8164&deviceMac=00:1A:79:17:
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.7FXcmou3UZQOqs9eLAqx3QAAAA?rs=1&pid=ImgDetMain" group-title="Cricket ",Jio Sports
 http://tv.cloudcdn.me:80/live.ts?channelId=294&uid=8164&deviceMac=00:1A:79:17:D4:A1
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup", toffe
+https://kicc.rkbdmoza.xyz/live.php?id=4edcfc36d49f&e=.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7432/567432-h"group-title="Cricket",test1
 https://public.iptv18.tech/opl/oplex.php?id=167569
