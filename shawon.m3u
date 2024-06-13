@@ -5,7 +5,7 @@ https://i.ibb.co/581CnRM/20240428-050626.jpg
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup", English 4k
-http://apex01.keycdn.cc/PPVCrick1/index.m3u8?token=c7b66c07ed21ce530eadb6eb56356b51
+http://tv.cloudcdn.me:80/live.ts?channelId=128703&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup", hindi 4k
 http://tv.cloudcdn.me:80/live.ts?channelId=128699&uid=9223&deviceMac=00:1A:79:A5:D5:E0
