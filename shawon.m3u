@@ -88,8 +88,7 @@ https://kicc.rkbdmoza.xyz/live.php?id=4edcfc36d49f&e=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7432/567432-h"group-title="Cricket",test1
-https://buddyxiptv.com/api/live.php?id=289
-
+https://buddyxiptv.com/api/live.php?id=301
 
 #EXTINF:-1 tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7432/567432-h"group-title="Cricket",test1
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=8982&deviceMac=00:1A:79:A5:D6:5B
