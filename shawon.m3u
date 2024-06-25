@@ -5,7 +5,7 @@ https://i.ibb.co/581CnRM/20240428-050626.jpg
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup", English 4k
-http://tv.cloudcdn.me:80/live.ts?channelId=128709&uid=8982&deviceMac=00:1A:79:A5:D6:5B
+http://tv.cloudcdn.me:80/live.ts?channelId=128709&uid=4041&deviceMac=00:1A:79:17:C0:12
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c467960712b92d436df3293a1cd9b9c5:04794df98011b6577af406594d831ef7
