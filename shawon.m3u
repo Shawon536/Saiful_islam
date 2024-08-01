@@ -229,8 +229,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=8164&deviceMac=00:1A:79:17:
 #EXTINF:-1 tvg-logo="https://www.film.ru/sites/default/files/movies/posters/50436431-2348807.jpg" group-title="Movie",Hawa
 https://jollya.notila6096.workers.dev/0:/hawa%202023/Hawa.2023.1080p.[FreeDriveMovie.com].iSCREEN.WEB-DL.AAC2.0.H.264.mkv 
 
-#EXTINF:-1 tvg-logo="https://snagfilms-a.akamaihd.net/dd078ff5-b16e-45e4-9723-501b56b9df0a/images/2024/05/23/1716461789582_kalpurus1920x1080_16x9Images.jpg?impolicy=resize&w=500&h=281.25" group-title="Movie", Kalpurush session 1
-https://aws.flapdoodle.shop/download/MVVmVk5JQ3VYdXBzdHRpZ1pzaFRDM3pFWVhqaHcxSFQyQDE3MjA0MDg2NzM3NjJAMTkyLjE0MC4yNTQuN0BQUEt0N0hmZmdNWkFkZHBuRUpUSmRlUXZpMjlHcTJVZkMwdjNMSndrbGVZPQ==/MovieLinkBD.com%20-%20Kaalpurush%20(2024)%20S01%20Bengali%20Chorki%201080p.mkv
+
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Sy6BjibI20wDMU0Rb816_QHaK5?rs=1&pid=ImgDetMain" group-title="Movie", Mohanagar 1
 https://m.xomim15694.workers.dev/0:/Mohanagar%20(2021)%20Bangla%20S01%20720p[FreeDriveMovie.com]WEB-DL%20x264.mkv
 
@@ -242,20 +241,14 @@ https://drive.usercontent.google.com/download?id=10CHxd2I1gvqtAkTeN3rGI0CSvV7nPj
 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmM2YTNkNzEtNzIwNi00ZDU0LThhNDUtZmQyMDUxOTVlMWJkXkEyXkFqcGdeQXVyMjQwODkxNzg@._V1._SX300.jpg " group-title="Movie", Rajkumar
-http://93.93.11.211:9211/86e4228d28529e59bbbbbd3c29d26f13537bbe1193022468054707ec15cbac80586ae4c80a58c5ce92cc/index.m3u8?token=96f54ca9903e122d3737c66ebb7fb7a6c2bfd55d046bd648d6fc3b47a16016ef44a99f64906d03cf69caeb3bf6fde88413568fcb88b59cdaeebf5ee2dd2cd398f060d21dba-c1e97b8eea344f5649b3499649061826
+https://delivery-node-etnh2hts8ppjned0.voe-network.net/engine/hls2/01/11686/yihxsajayfhh_,n,.urlset/index-v1-a1.m3u8?t=QwP9a-wrk8sA0Hu_5oSbKlLX6x_GZAQ4L7WU_KerWAU&s=1722507490&e=14400&f=58431790&node=delivery-node-etnh2hts8ppjned0.voe-network.net&i=45.89&sp=2500&asn=62240
 
 #EXTINF:-1 tvg-logo="https://imgurworld.top/images/2024/05/30/03146371bc1566b4ba6d33ee306057ce.jpg " group-title="Movie", Tarot
 https://drive.usercontent.google.com/download?id=1qy-AzAn3iJDnrEQBKuacaeXZdX1Dzcx5&export=download&authuser=0&confirm=t&uuid=02df4f52-63b3-41b5-a621-f0bc7519b590&at=APZUnTXsftw5buWX4Cl3RXVPdL66%3A1717755855470 
-#EXTINF:-1 tvg-logo="" group-title="Movie", 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/uS1AIL7I1Ycgs8PTfqUeN6jYNsQ.jpg" group-title="Movie", insidious
 https://drive.usercontent.google.com/download?id=16znXwACv01zdIk-5sA6tNaX7MVvKbU6F&export=download&authuser=0&confirm=t&uuid=b09cb42e-faa3-4125-afab-f7fd09f950e4&at=APZUnTWx3SxA5sp7kDDZwHCIwInC%3A1717836498329
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/6Qq9fIUBD48BZ2SgFhKnaSgs2eu.jpg" group-title="Movie",Hi Nanna
-https://www.googleapis.com/drive/v3/files/1H8P53e_P1gBM5tPScbcWzLm3cRc_-pez?alt=media&key=AIzaSyAa1Gi6xZ4sfpEa4N4qo5bXjD2KfHURowk
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/66MSawKC7nkqjD1BMlQHXl6y3C.jpg" group-title="Movie",Sarileru Neekevvaru
-http://tv.digitalview.live:8080/movie/tawhidbdix2/700570076/65462.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/5c7hmaTUKhSThP3IbKUG7S2M77M.jpg" group-title="Movie",Golam masud
 http://xtv.ooo:8080/series/777888242424/444555666/378721.mkv
@@ -266,17 +259,11 @@ https://delivery-node-ptejpfhct13vobjp.voe-network.net/engine/hls2/01/11686/bquq
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/9MZou1y6HHjdisLeCiGh0VnJPXR.jpg" group-title="Movie",Baji
 https://new-droplet.diiistore.lol/495317376dceb7913196f83d42b285795d318b0c8b4129d055c727b3e92dd249bca69f4ac688dbcb88ef87257e9ef30fc9ab061d718d795408c9259248bc910e80b3679c662acb931401bb46952aa6fe61fe5e6aa321f4a63c45ccc91fd75d13d70bde62e89c18a57f3a4ca1ff23ef86be9758c8f287649b87b91b36ec985e9f6ed905cfba045a781a177a77e201af751004767daf40011730c7c328c89641cb3a80d0e40aa3ebb7eff06c24e594f988::f7857d525d02ad19bb6341b5610313c4/Baaji.S01.1080p.[FreeDriveMovie.com]Chorki.WEB-DL.AAC2.0.H.264.ESub.mkv
 
-#EXTINF:-1 tvg-logo="http://10.16.100.244/files/geek_girl_season_01__2024__completed.jpg" group-title="Movie",Geek girl
-https://pkapp.vkcdn5.com/olaxkc6btduiolyobgj2dvtimxhkpxmoo3qs3s6obrhwe4pekkvrpq4osz2a/v.mp4
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM3ZGUwYTEtZTI5NS00ZmMyLTk2YmQtMWU4YjlhZTI3NjRjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpgg" group-title="Movie",Kalki 2898 AD
 https://hdcam1.maroki8823.workers.dev/0:/Kalki%202024/Kalkii.2024.[FreeDriveMovie.com]720p.HDCAM.mkv
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.Dhmh8u2uDCqcj2N-fXJ9DQAAAA?rs=1&pid=ImgDetMain" group-title="Movie", Araf 2 
 https://pixeldra.in/api/file/M4hpjcyS?download
-
-https://drive.usercontent.google.com/download?id=18wchSKTxiuh1cXrRgECCEBG6DBvuHK0w&export=download&authuser=0&confirm=t&uuid=4e7e4c1b-1481-4e2e-84e3-02a7ce255343&at=APZUnTVdaM27gbQb4dIH8ED0nYDI%3A1720757940195
-https://drive.usercontent.google.com/download?id=1IHJr1Il3lVO66_QHrrg7SK-N8XzIe2rs&export=download&authuser=0&confirm=t&uuid=b378a25e-1f6c-467d-a20c-8ad3e68829e7&at=APZUnTU6h8WbuQEUZdQMnXJuoYl4%3A1720179034823
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abcq7WjoFx4WGU0HLcuOytpkLFG.jpg" group-title="Movie", Toofan
 https://delivery-node-xiqouf4pvm4tez6k.voe-network.net/engine/hls2/01/11715/6euhayphqddb_,n,.urlset/index-v1-a1.m3u8?t=MCU0YxF852-Xmboh0YiF6xNYMMcEzToyLd_GY3KK2Cs&s=1722507069&e=14400&f=58675542&node=delivery-node-xiqouf4pvm4tez6k.voe-network.net&i=45.89&sp=2500&asn=62240
