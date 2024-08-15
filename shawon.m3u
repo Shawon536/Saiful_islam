@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/581CnRM/20240428-050626.jpg" group-title="Shawon iptv", Shawon iptv
 https://i.ibb.co/581CnRM/20240428-050626.jpg
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_908524001716121226.png" group-title="T20 World cup",test
+https://buddyxiptv.com/cloudcdn/api.php?id=279
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tvxRzw/20240730-221042.png" group-title="BD NEWS", ATN NEWS HD
 https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=qeCUjGQ81cawtwxZJVSQQg&expires=1723265920&user=d477246e9e724f81a011b847457e71c4
 
