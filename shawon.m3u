@@ -109,9 +109,9 @@ https://hdstreamz.vip/sports/mu1.php?e=.m3u8#EXTINF:-1 tvg-logo="https://images.
 http://145.239.5.177:8080/566/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.pixahunt.s/thumb/Pixahunt-9beb581fe5a734755f596f63c18670ac.webp" group-title="Cricket ",T Sports
-http://113.212.111.246:8080/hls/col12.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
-#EXTINF:-1 tvg-logo="https://images.news18.com/ibnlive/uploads/2020/05/1590663909_sonyliv2-1.jpg" group-title="Sports", Sony liv
+#EXTINF:-1 tvg-logo="https://images.news18ads/2020/05/1590663909_sonyliv2-1.jpg" group-title="Sports", Sony liv
 https://1rdk.short.gy/Indvzm.m3u8
 
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.A1qR7jFQKf74eBQSjS7jwQHaIk?rs=1&pid=ImgDetMain" group-title="Cricket",Ngorik TV
