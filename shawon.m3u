@@ -10,19 +10,19 @@ https://buddyxiptv.com/cloudcdn/api.php?id=279
 https://buddyxiptv.com/cloudcdn/api.php?id=293
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2tvxRzw/20240730-221042.png" group-title="BD NEWS", ATN NEWS HD
-https://edge01.iptv.digijadoo.net/live/atn_news/playlist.m3u8?md5=qeCUjGQ81cawtwxZJVSQQg&expires=1723265920&user=d477246e9e724f81a011b847457e71c4
+http://opplextv.cyou:8080/live/773199/626227/245905.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bX4tt98/20240730-222351.png" group-title="BD NEWS", SOMOY TV HD
-https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=p4o_jn4i5rZH44cYl6UVEw&expires=1723265959&user=d477246e9e724f81a011b847457e71c4
+http://opplextv.cyou:8080/live/773199/626227/245925.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pnhgXKc/20240730-222525.png" group-title="BD NEWS", INDEPENDENT TV HD
-https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=Bu_4AxIVq8uVWq8AX0AnaQ&expires=1723265995&user=d477246e9e724f81a011b847457e71c4
+http://opplextv.cyou:8080/live/773199/626227/245916.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fQTkSP7/20240730-234013.png" group-title="BD NEWS", JAMUNA TV HD
-https://edge01.iptv.digijadoo.net/live/jamuna_tv/playlist.m3u8?md5=44Kyqbu6EgXFG1HBV4Y3sg&expires=1723266027&user=d477246e9e724f81a011b847457e71c4
+http://opplextv.cyou:8080/live/773199/626227/245917.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sysXhbH/20240730-224858.png" group-title="BD NEWS", RTV NEWS HD
-https://edge01.iptv.digijadoo.net/live/rtv/playlist.m3u8?md5=Hk8QoXyKDT4HJq9Lkah-qQ&expires=1723266076&user=d477246e9e724f81a011b847457e71c4
+http://opplextv.cyou:8080/live/773199/626227/245911.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WGhT9Z9/20240730-225044.png" group-title="BD NEWS", CHANNEL 24 HD
 https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=poB9YNZyr_tPnvrtbCYgIA&expires=1723266105&user=d477246e9e724f81a011b847457e71c4
@@ -31,13 +31,11 @@ https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=poB9YNZyr_tP
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mTMhZTj/20240730-225116.png" group-title="BD NEWS", DBC NEWS HD
-https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8 
+http://opplextv.cyou:8080/live/773199/626227/245914.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/344z9dp/20240730-225945.png" group-title="BD NEWS", EKHON TV HD
-https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+http://opplextv.cyou:8080/live/773199/626227/245915.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qrkzWML/20240730-225606.png" group-title="BD NEWS", JAGO NEWS 24
-https://static.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagonews24.stream/playlist.m3u8
 
 
 
