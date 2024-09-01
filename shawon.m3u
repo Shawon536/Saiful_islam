@@ -58,7 +58,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=33317&uid=8982&deviceMac=00:1A:79:A5:
 http://xtv.ooo:8080/live/777888242424/444555666/167594.ts
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Astro_Cricket_Channel_ID.jpg/revision/latest?cb=20190130044244" group-title="Cricket ",Astro
-http://xtv.ooo:8080/live/777888242424/444555666/167581.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=33317&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/xREOm9A52qiQu7fZnNxdJo9SV4l6AXDy0TRFDpVK19LuwqH14lSbH8dNeVu0bSjehoY" group-title="Cricket ",cricmax 2
 http://xtv.ooo:8080/live/777888242424/444555666/371470.ts
@@ -69,11 +69,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=8982&deviceMac=00:1A:79:A5:
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.cUgdcHYhb84vJOMbsaSggAHaHa?rs=1&pid=ImgDetMain" group-title="Cricket ", Gazi tv
 http://starshare.live:8080/live/starbox868/987starbox/767.ts
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Astro_Cricket_Channel_ID.jpg/revision/latest?cb=20190130044244" group-title="Cricket ", Astro 
-http://rajtv.online:80/play/live.php?mac=00:1a:79:51:cc:4d&stream=1104670&extension=ts&play_token=UCeHzYFpIW
-
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1663271.jpg" group-title="Cricket ",PTV Sports
-http://tv.cloudcdn.me:80/live.ts?channelId=278&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://tv.cloudcdn.me:80/live.ts?channelId=278&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1445713521136730118/QhkT-1X-_400x400.jpg" group-title="Cricket ", A sportrs
 http://tv.cloudcdn.me:80/live.ts?channelId=12217&uid=8164&deviceMac=00:1A:79:17:D4:A1
@@ -84,8 +81,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=294&uid=8164&deviceMac=00:1A:79:17:D4
 #EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/SONY-SPORTS-TEN-1.jpg"group-title="Cricket",Sony Sports 1
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=8982&deviceMac=00:1A:79:A5:D6:5B
 
-
-
+#EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/SONY-SPORTS-TEN-1.jpg"group-title="Cricket",Sony Sports 5
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=15153&deviceMac=00:1A:79:81:6F:94
 
 
 
