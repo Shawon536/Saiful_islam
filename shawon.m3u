@@ -39,7 +39,7 @@ http://opplextv.cyou:8080/live/773199/626227/245915.ts
 
 
 
-#EXTINF:-1 tvg-id="BAN vs IND VIP" tvg-name="BAN vs IND VIP" tvg-logo="https://images.toffeelive.com/images/program/208144/logo/240x240/mobile_logo_166888001726636116.png"group-title="Cricket" 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208144/logo/1280x720/landscape_original_poster_213993001726636014.png" group-title="Cricket",BAN VS IND Toffe
 http://localhost:5000/api/match-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208144/logo/1280x720/landscape_original_poster_213993001726636014.png" group-title="Cricket",BAN VS IND
