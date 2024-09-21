@@ -40,7 +40,9 @@ http://opplextv.cyou:8080/live/773199/626227/245915.ts
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208144/logo/1280x720/landscape_original_poster_213993001726636014.png" group-title="Cricket",BAN VS IND Toffee
-https://d.durbinlive.pro/toffee1.php?ts=https:// mprod-cdn-key.toffeelive.com/key-01/bia19423-6006-4fb6-94 d8-b210bcf16a0b_0_1726898992.key
+#EXTVLCOPT:http-user-agent=
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1726942789:KeyName=prod_live_events:Signature=MACu6F1iBPvEmL7hBESyzujgfVoAZw2b64Hb9eOOKCYn_AbW9UXSaofki3eE9j2-opOkWIwcg07zVhV5xjRADQ"}
+https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/208144/logo/1280x720/landscape_original_poster_213993001726636014.png" group-title="Cricket",BAN VS IND
 http://tv.cloudcdn.me:80/live.ts?channelId=102478&uid=8982&deviceMac=00:1A:79:A5:D6:5B
