@@ -259,6 +259,7 @@ https://drive.usercontent.google.com/download?id=17VuqgFkHL7GGIzlSiEmdwgv2Gf_Tck
 https://bbbb.8d5398cf59ea7530fac7a722897c7e1c.r2.cloudflarestorage.com/5493cbca328f05bdc151c237d1b2152b/The.Exorcist.1973.DC.Dual.ORG.720p.mkv?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=446cfd2059ca7524a25cfbc29f4621f7%2F20240915%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240915T151436Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=f9d28135b5ac77bca747487a73c988734e5d541888c1f0c9f1c69c720851b677
 
 #EXTINF:-1 tvg-logo="https://jadwalnonton.com/data/upload/movies/2023/poster-film-munkar.jpg" group-title="Movie",Munkar
+#EXTVLCOPT:sub-file=https://drive.google.com/uc?export=download&id=1OLiWD_hO2QPa5bVgm3UKj-2TYz8TZLbH
 https://mcsdn03924.nuflayer.com/movie/munkar.mp4
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/tarot-953105298-large.jpg" group-title="Movie",Tarot
