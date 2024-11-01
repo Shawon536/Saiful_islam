@@ -174,8 +174,15 @@ http://rajtv.online:80/play/live.php?mac=00:1a:79:51:cc:4d&stream=225781&extensi
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="kids", Duronto
-http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=8164&deviceMac=00:1A:79:17:D4:A1 
+#EXTINF:-1 tvg-logo="https://mlwbd.nl/wp-content/uploads/2JbNkHg8m7LaBy61LyrnnlenaxY-185x278.jpg" group-title="Hindi movie",Singham Again (2024) Hindi
+https://bbbb.8d5398cf59ea7530fac7a722897c7e1c.r2.cloudflarestorage.com/a68a7b90da6d5a7370bb9c1aaff75663/Singham%20Again%202024%20Hindi%20HDTC%201080p.mkv?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=446cfd2059ca7524a25cfbc29f4621f7%2F20241101%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20241101T134506Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Signature=9cb526a73b788f1df3006e275dafc98e5b15b78ba9e1245adeb422f568c5e0e1
+
+
+
+
+
+
+
 
 
 
