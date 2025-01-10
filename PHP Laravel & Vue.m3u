@@ -20,9 +20,137 @@ https://stream.ostad.app/5e069b8e-4ea5-487c-8368-aed37caa9831/1920x1080/video.m3
 https://stream.ostad.app/e57c904b-0a73-42ad-815b-7c693cccc8e1/1920x1080/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="[Foundation] পূর্ব প্রস্তুতি (ক্লাস শুরুর আগেই যারা ইনরোল করেছেন তাদের জন্য )",8 Rad Model
-
-
 https://stream.ostad.app/4b4d3752-6751-43d2-8bd1-f3b9dbc3fcf5/1920x1080/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="[Foundation] পূর্ব প্রস্তুতি (ক্লাস শুরুর আগেই যারা ইনরোল করেছেন তাদের জন্য )",
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",1 HTML Introduction
+https://stream.ostad.app/127fa198-1ec5-4bf7-ba06-3d8bb7cfbb7f/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",2 HTML Basic Web Page
+https://stream.ostad.app/492c8e00-1519-4f66-84f1-f149aff9e5d2/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",3 HTML Text Formatting
+https://stream.ostad.app/af377d01-9e35-4d0d-8e64-e7c76cdd84ed/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",4 HTML Headings
+https://stream.ostad.app/03574127-c076-492e-b21c-4aed677d9c65/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",5 HTML Table Tags
+https://stream.ostad.app/6deb076f-3005-4ce9-a969-bf82eca96f45/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",6 HTML Order List Unorder List
+https://stream.ostad.app/66bbf14f-a31a-4def-9342-111f20895d32/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",7 HTML Form Elements
+https://stream.ostad.app/f28e59af-395b-4a0c-8cac-341b6b78d42a/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",8 HTML Images
+https://stream.ostad.app/788f6505-6d68-449a-bffd-bdef5ed47eb2/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",9 HTML Video
+https://stream.ostad.app/88345eb2-6fcf-4439-a2ae-149d2d7aa75a/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",10 HTML Audio
+https://stream.ostad.app/0b135887-baf1-461c-a72b-c65f717af89f/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",11 HTML Youtube Embed
+https://stream.ostad.app/ab8895b4-a700-4041-ab81-a34a3881e826/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",12 HTM Meta Tags
+https://stream.ostad.app/b6224d24-a603-443e-b5b7-5dc229b6865f/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",13 HTML No Cache Meta
+https://stream.ostad.app/73341a05-c016-473b-9bb3-47145a73a32c/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",14 HTML Time Marks
+https://stream.ostad.app/f88e869a-34aa-4d32-b219-2d0af7f98689/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",15 HTML Datalist Tags
+https://stream.ostad.app/67e6feb5-f980-4331-9b9b-468b3cf4b6d3/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",16 HTML Emojis
+https://stream.ostad.app/96b17be2-ba92-4530-9828-c955644a6f02/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",1 CSS Introduction
+https://stream.ostad.app/28d61eb0-57b5-4813-bc0e-c079d5289439/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",2 How to add CSS
+https://stream.ostad.app/b8368f86-65dd-458c-8eec-a4b483f38649/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",3 CSS Basic Syntax
+https://stream.ostad.app/a5e84b23-e378-4ee2-9a62-0bd9f9ac8f0c/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",4 CSS Selector
+https://stream.ostad.app/430650ef-836a-4359-8d2e-9f1f81477f18/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",5 CSS Background properties
+https://stream.ostad.app/dc91f95d-b997-4d26-b110-6d676b503204/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",6 CSS Border Properties
+https://stream.ostad.app/3654c701-857e-4072-a289-89041c0e2b3f/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",7 Border Radius
+https://stream.ostad.app/8635f340-b848-4c93-85bc-4f2de6fc3e0c/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",8 CSS Display Property
+https://stream.ostad.app/39f2cbbd-dbba-44e0-87ff-8db36e24ce8b/1280x720/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",9 CSS Cursor Property
+https://stream.ostad.app/b366f6c2-ea6e-4d8e-8f0a-d10f469f2c3e/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",10 CSS Float Property
+https://stream.ostad.app/cdfbf0a4-cbdb-499d-95d6-e34c795f912f/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",11 CSS Fonts
+https://stream.ostad.app/3347e8ae-31c0-475a-b9f1-264039d8cd35/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",12 CSS Hover
+https://stream.ostad.app/fdbff632-cc42-4c98-9f7f-23e48d5f9df0/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",13 CSS Important
+https://stream.ostad.app/2e0edaf2-f226-455a-8a6a-6077d059cacd/1280x720/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",14 CSS Line Height
+https://stream.ostad.app/f4510850-1e5f-4f04-b6db-4c6ddba0caeb/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",15 CSS Margin
+https://stream.ostad.app/93b30847-964e-4e83-a69b-89d4574a609b/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",16 CSS Padding
+https://stream.ostad.app/8355af8a-ed79-41ca-a19d-de190a6f6f6d/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",17 CSS Filter
+https://stream.ostad.app/bcff06ef-4e88-4d18-bc46-cbd4b53f55c0/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",18 CSS Overflow
+https://stream.ostad.app/58681267-76bc-428a-89ad-fe9ba0a9d553/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",19 CSS Position
+https://stream.ostad.app/ce9542ae-a40f-4cc3-ba60-b90b02dcfd95/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",20 CSS Word Wrap
+https://stream.ostad.app/887f7602-b41b-4ced-9e55-ebb5d5738d36/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",21 CSS Justify content
+https://stream.ostad.app/7b5b0047-f02d-4301-b529-1fdb6647a09d/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",22 CSS text decoration
+https://stream.ostad.app/6605d78f-b394-4a81-990d-88fbf93810ed/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",23 CSS Word and letter spacing
+https://stream.ostad.app/30eb800b-3b76-43b3-9322-f3613c74ecb0/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",24 CSS Variable
+https://stream.ostad.app/973bcb62-eb8a-4278-b043-b24c5e0fb177/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="JAVS SCRIPT",
+
+
+
+
+
+
+
+
+
+
 
