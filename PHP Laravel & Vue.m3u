@@ -70,6 +70,16 @@ https://stream.ostad.app/67e6feb5-f980-4331-9b9b-468b3cf4b6d3/1920x1080/video.m3
 #EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",16 HTML Emojis
 https://stream.ostad.app/96b17be2-ba92-4530-9828-c955644a6f02/1920x1080/video.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",Module 1 Live Class 1
+https://stream.ostad.app/7ee9b914-e879-49c2-be36-5b68ebe8ef62/720p/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="HTML",Module 1 Live Class 2
+https://stream.ostad.app/96ae020d-d350-41d0-91ac-419e01e5888a/1080p/video.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",1 CSS Introduction
 https://stream.ostad.app/28d61eb0-57b5-4813-bc0e-c079d5289439/1920x1080/video.m3u8
 
@@ -142,7 +152,103 @@ https://stream.ostad.app/30eb800b-3b76-43b3-9322-f3613c74ecb0/1920x1080/video.m3
 #EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",24 CSS Variable
 https://stream.ostad.app/973bcb62-eb8a-4278-b043-b24c5e0fb177/1920x1080/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="JAVS SCRIPT",
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",Module 2 Live Class 1
+https://stream.ostad.app/992e8b11-9981-409a-82f4-e45564170ad3/1080p/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="CSS",Module 2 Live Class 2
+https://stream.ostad.app/a006bd6b-af61-4a4b-b3f8-8a543fad56de/1080p/video.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",1 Bootstrap Intro and installation
+https://stream.ostad.app/7d9c2f24-edfd-418b-884d-5b5bb3f2d3b7/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",2 Features you needs to know
+https://stream.ostad.app/66ac1930-91d4-4b8b-942a-de220d1e5df3/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",3 Bootstrap light dark mode
+https://stream.ostad.app/b12625ef-bc08-4bbb-a2a3-f9a553341cf6/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",4 Layout container row column
+https://stream.ostad.app/1b1ceac0-72f0-4dbf-bdb0-b59f7ad3448a/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",5 Responsive Layout
+https://stream.ostad.app/43d82593-7686-4c92-b377-396ce4074ed5/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",6 Layout Gutters
+https://stream.ostad.app/fb498f07-d66a-4b0f-9aae-ddc35bbf18c8/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",7 Bootstrap Typography
+https://stream.ostad.app/a9ec1e35-9e6e-4dfb-8773-bbb71a4bd579/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",8 Bootstrap Typography
+https://stream.ostad.app/b7990683-763a-42ea-adb7-f4ff96bf3aad/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",9 Bootstrap Images
+https://stream.ostad.app/5e124150-e7fb-4a63-8bc1-26a15760761b/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",10 Bootstrap Table
+https://stream.ostad.app/6cc0fb97-7884-4c26-8a2d-5af88c8ac82e/1920x1080/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
+
+#EXTINF:-1 tvg-logo="https://cdn.ostad.app/course/photo/2023-12-04T11-07-00.625Z-PHP%20Laravel.jpg" group-title="Bootstrap & Intro to PHP ",
 
 
 
