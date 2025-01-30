@@ -293,5 +293,22 @@ https://drive.usercontent.google.com/download?id=1eEaW2T3NQaBQIOgoFJs1zt1wvpxrlm
 #EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.3cb767ce181b4ca14c8a23b2435d4c43?rik=%2brOYDvteI%2biLww&riu=http%3a%2f%2fwww.impawards.com%2fintl%2fjapan%2f2020%2fposters%2fstand_by_me_doraemon_two_ver2_xlg.jpg&ehk=3V5Y6SZuL2bC2enZJg0xqHJ9BFlRecpc1Q%2b0m16A7Bo%3d&risl=&pid=ImgRaw&r=0" group-title="Doraemon movie", stand by me doraemon 2
 https://drive.usercontent.google.com/download?id=16Tipn_mROld0n2OJ4f_Mx17Sly2IzvXG&export=download&authuser=0&confirm=t&uuid=70464750-a5f0-482c-81d8-df1dd911db42&at=APvzH3pACY0EMN_I8Hw8baBiiNGU%3A1735295859112
 
-#EXTINF:-1 tvg-logo="" group-title="English movie" group-title="Squid Game s1",ep 1
+
+#EXTM3U
+#EXTGRP:English Movie
+
+# English Movie
+#EXTINF:-1 group-title="English Movie"
+http://atg100.xyz:80/series/English%20Movie
+
+# English Movie | Squid game sission 1 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/08/ea/db08ea004e49a1b45da57838665a4bc2.jpg" group-title="English Movie | Squid game sission 1 "ep 1
 http://atg100.xyz:80/series/UL33K17/SYC4T9D/517288.mkv
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/08/ea/db08ea004e49a1b45da57838665a4bc2.jpg" group-title="English Movie |Squid game sission 1 " ep 2
+http://atg100.xyz:80/series/UL33K17/SYC4T9D/517289.mkv
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/08/ea/db08ea004e49a1b45da57838665a4bc2.jpg" group-title="English Movie | Squid game sission 1 " ep 3
+http://atg100.xyz:80/series/UL33K17/SYC4T9D/517290.mkv
+
+
