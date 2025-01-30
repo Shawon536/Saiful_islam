@@ -296,15 +296,15 @@ https://drive.usercontent.google.com/download?id=16Tipn_mROld0n2OJ4f_Mx17Sly2Izv
 #EXTM3U
 
 # English Movie
-#EXTINF:-1 group-title="English Movie"
-# English Movie | Squid game sission 1 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/08/ea/db08ea004e49a1b45da57838665a4bc2.jpg" group-title="English Movie | Squid game sission 1" ep 1,
+#EXTINF:-1 group-title="English Movie", English Movie
+http://atg100.xyz:80/series/English%20Movie
+
+# English Movie | Squid Game Season 1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/08/ea/db08ea004e49a1b45da57838665a4bc2.jpg" group-title="English Movie | Squid Game Season 1", Episode 1
 http://atg100.xyz:80/series/UL33K17/SYC4T9D/517288.mkv
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/08/ea/db08ea004e49a1b45da57838665a4bc2.jpg" group-title="English Movie | Squid game sission 1" ep 2,
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/08/ea/db08ea004e49a1b45da57838665a4bc2.jpg" group-title="English Movie | Squid Game Season 1", Episode 2
 http://atg100.xyz:80/series/UL33K17/SYC4T9D/517289.mkv
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/08/ea/db08ea004e49a1b45da57838665a4bc2.jpg" group-title="English Movie | Squid game sission 1" ep 3,
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/08/ea/db08ea004e49a1b45da57838665a4bc2.jpg" group-title="English Movie | Squid Game Season 1", Episode 3
 http://atg100.xyz:80/series/UL33K17/SYC4T9D/517290.mkv
-
-
